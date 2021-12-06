@@ -9,3 +9,4 @@
 ### SECURITÉ
 ### MÉCANISME
 - fonction de rappel (callback)
+- interopérabilité
