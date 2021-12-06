@@ -8,7 +8,7 @@
 - le tas (heap)
 ### MAINTENABILITE
 - scalabilité ou extensibilité
+- interopérabilité ou multiplateforme
 ### SECURITÉ
 ### MÉCANISME
 - fonction de rappel (callback)
-- interopérabilité ou multiplateforme
